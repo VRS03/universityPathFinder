@@ -1,15 +1,9 @@
 // Filename: graph.h 
 // Author: Viraj Saudagar
-// University of Illinois Chicago
-// CS 251, Fall 2023
 //
 // This class enables for the creation of a graph with weighted edges of templated types for
 // both the vertex and weights. The graph uses an adjacency list which is implemented as a linked list of
 // edge structs. 
-//
-// Project Original Variartion By:
-// Joe Hummel, PhD
-// University of Illinois at Chicago
 //
 
 #pragma once
