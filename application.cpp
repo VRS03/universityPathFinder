@@ -1,7 +1,5 @@
 // Filename: application.cpp 
 // Author: Viraj Saudagar
-// University of Illinois Chicago
-// CS 251, Fall 2023
 //
 // This program implements an application which generates a graph using the defined graph class 
 // on a given map file in the osm format. The program parses the input map file and generates a graph 
