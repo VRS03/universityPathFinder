@@ -6,7 +6,6 @@
 // populated with vertices and edges representing paths and points on the map with distance edges. The application then calculates 
 // the shortest pathways for two people to meet from valid buildings at a valid building. 
 //
-// x 
 // 
 // 
 // References:
